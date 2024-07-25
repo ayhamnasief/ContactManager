@@ -4,6 +4,6 @@ This application uses MVVM with room database and data binding.
 - Display contacts in our database, in our room database.
 - Allows to insert a new contact into offline database and direct us to the main activity.
 # Technologies:
-- Model View View Model (Mvvm) 
+- Model View View Model (MVVM) 
 - Room Database, which is an offline data source.
 - Data Binding.
